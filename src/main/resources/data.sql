@@ -1,0 +1,14 @@
+insert into country_master values(1,'+91','India');
+insert into country_master values(2,'+1','USA');
+insert into state_master values(1,1,'Madhya Pradesh');
+insert into state_master values(2,1,'Uttar Pradesh');
+insert into state_master values(3,2,'Texas');
+insert into state_master values(4,2,'Florida');
+insert into city_master values(1,'Bhopal',1);
+insert into city_master values(2,'Indore',1);
+insert into city_master values(3,'Luckhnow',2);
+insert into city_master values(4,'Varanasi',2);
+insert into city_master values(5,'Houston',3);
+insert into city_master values(6,'Dallas',3);
+insert into city_master values(7,'Miami',4);
+insert into city_master values(8,'Orlando',4);
